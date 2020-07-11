@@ -8,3 +8,4 @@ Git add // se sube al cache
 
 Git rm --cached // se elimina del cache
 
+git reset // volvemos en el tiempo -- soft y -- reset
