@@ -1,5 +1,10 @@
-Hola soy Raymundo Emanuell
+Git status // muestra el estado del archivo
 
-Tengo 21 años
+Git config // modifica la configuracion
 
-Amo la programacion y los idiomas
+Git commit // se envia a la base de datos
+
+Git add // se sube al cache
+
+Git rm --cached // se elimina del cache
+
